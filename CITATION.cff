@@ -3,6 +3,7 @@ message: "If you use this dataset, please cite it using these metadata."
 type: dataset
 title: "DC Pump Aggregates Database for Autonomous Photovoltaic Water-Supply Systems"
 version: "1.0.0-inventory"
+doi: "10.5281/zenodo.21932531"
 license: CC-BY-4.0
 date-released: "2026-08-14"
 
