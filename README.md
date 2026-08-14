@@ -1,5 +1,5 @@
 # DC Pump Aggregates Database for Autonomous Photovoltaic Water-Supply Systems
-
+[![DOI](https://zenodo.org/badge/1334002775.svg)](https://doi.org/10.5281/zenodo.21932530) 
 A curated, source-traceable database of pump aggregate configurations for autonomous photovoltaic water-supply systems.
 
 > **Release status:** Inventory-grade. This release is suitable for equipment inventory, classification, source tracing, and database-architecture studies. It is not yet a fully verified hydraulic dataset for all 300 configurations.
@@ -171,11 +171,12 @@ The checksum is also provided in [`SHA256SUMS.txt`](./SHA256SUMS.txt).
 
 Citation metadata are provided in [`CITATION.cff`](./CITATION.cff). GitHub users may select **Cite this repository** to obtain APA or BibTeX metadata.
 
-Until the Zenodo DOI is issued, the dataset may be cited as:
+## Citation
 
-M. Eshkulov, R. Kh. Khamdamov, and A. Mustafakulov, *DC Pump Aggregates Database for Autonomous Photovoltaic Water-Supply Systems*, version 1.0.0-inventory, 2026. [Online]. Available: https://github.com/Muhriddin2301/dc-pump-aggregates-pv-database
+Eshkulov, M. O., Khamdamov, R. Kh., and Mustafakulov, A. (2026). *DC Pump Aggregates Database for Autonomous Photovoltaic Water-Supply Systems* (Version 1.0.0-inventory) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21932531
 
-A permanent DOI-based citation will be added after archival in Zenodo.
+- Specific version DOI: https://doi.org/10.5281/zenodo.21932531
+- Concept DOI for all versions: https://doi.org/10.5281/zenodo.21932530
 
 ## License
 
