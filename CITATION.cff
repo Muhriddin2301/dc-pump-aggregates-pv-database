@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using these metadata."
+type: dataset
+title: "DC Pump Aggregates Database for Autonomous Photovoltaic Water-Supply Systems"
+version: "1.0.0-inventory"
+date-released: "2026-08-14"
+
+authors:
+  - family-names: "Eshkulov"
+    given-names: "Mukhriddin"
+    orcid: "https://orcid.org/0000-0001-6315-6561"
+    affiliation: "Digital Technologies and Artificial Intelligence Research Institute; Jizzakh Polytechnic Institute"
+
+  - family-names: "Khamdamov"
+    given-names: "Rustam Kh."
+    orcid: "https://orcid.org/0000-0003-3796-4631"
+    affiliation: "Digital Technologies and Artificial Intelligence Research Institute"
+
+  - family-names: "Mustafakulov"
+    given-names: "Asror"
+    orcid: "https://orcid.org/0000-0002-3251-9742"
+    affiliation: "Jizzakh Polytechnic Institute"
+
+abstract: >-
+  A curated and source-traceable database of 300 pump aggregate
+  configurations for autonomous photovoltaic water-supply systems.
+  The inventory-grade release contains normalized pump, electrical-drive,
+  hydraulic-curve, source-provenance, and quality-assurance information.
+  Hydraulic verification remains incomplete and is explicitly documented
+  through verification-status fields.
+
+keywords:
+  - photovoltaic water pumping
+  - pump aggregates
+  - equipment database
+  - hydraulic performance curves
+  - source traceability
+  - quality assurance
+  - autonomous water supply
+
+url: "https://github.com/Muhriddin2301/dc-pump-aggregates-pv-database"
