@@ -189,7 +189,6 @@ Manufacturer names, trademarks, product specifications, and linked source materi
 
 - Mukhriddin Eshkulov — ORCID: [0000-0001-6315-6561](https://orcid.org/0000-0001-6315-6561)
 - Rustam Kh. Khamdamov — ORCID: [0000-0003-3796-4631](https://orcid.org/0000-0003-3796-4631)
-- Asror Mustafakulov — ORCID: [0000-0002-3251-9742](https://orcid.org/0000-0002-3251-9742)
 
 ## Associated research
 
